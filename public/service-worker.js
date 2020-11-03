@@ -12,6 +12,9 @@ const staticFilesToPreCache = [
   "/index.js",
   "/styles.css",
   "/manifest.webmanifest",
+  "/chart.js",
+  "/font-awesome.min.css",
+  "/fonts/fontawesome-webfont.woff2?v=4.7.0",
 ].concat(iconFiles);
 
 
